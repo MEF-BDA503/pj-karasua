@@ -9,3 +9,5 @@
 Our group name is NYC.Our group members are:
 
 Ahsen Ceren KARASU, Ahmetcan TEKİNCE, İsmetcan HERGÜNŞEN, Volkan ORHAN
+
+We chose a dataset of NYC Transport Statistics. It contains periodic data recorded from NYC Buses - Location, Time, Schedule & some more.
