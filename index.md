@@ -14,6 +14,4 @@ We chose a dataset of NYC Transport Statistics. It contains periodic data record
 
 ##Week5 (Dec 5)
 
-
-
 [Here](files/ack.R.html) is my own package code.
