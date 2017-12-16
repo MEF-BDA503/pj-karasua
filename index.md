@@ -18,4 +18,4 @@ We chose a dataset of NYC Transport Statistics. It contains periodic data record
 
 ## Week 6 (Dec 16)
 
-[Here](files/ack.R.html) is my own package code.
+[Here](files/NYCycle.html) is my NYC cycling analyze :)
