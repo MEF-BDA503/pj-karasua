@@ -19,3 +19,7 @@ We chose a dataset of NYC Transport Statistics. It contains periodic data record
 ## Week 6 (Dec 16)
 
 [Here](files/NYCycle.html) is my NYC cycling analyze :)
+
+## Final (Jan 06-09)
+
+You can download my rds files for [nyc](files/nyc.rds) and [age](files/age.rds) datasets.
