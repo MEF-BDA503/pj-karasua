@@ -23,3 +23,9 @@ We chose a dataset of NYC Transport Statistics. It contains periodic data record
 ## Final (Jan 06-09)
 
 You can download my rds files for [nyc](files/nyc.rds) and [age](files/age.rds) datasets.
+
+## Assignment
+
+Here ise my assignment. If you drink water everytime i wrote assignment you can be healthy person. (True Story)
+
+[shining bright like a diamond](files/Assignment Diamonds.html)
